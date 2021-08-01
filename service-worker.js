@@ -1,10 +1,5 @@
-const CACHE = '8d72703af46ebec84472ab7c825b4d66d9261b4447a4701e1e40df7d597ea674'
+const CACHE = '9318d44c6704c7eb29003c47423c4e4e253a2aa10aa654d8d34de373f7726e9f'
 const PRECACHE_URLS = [
-  '/assets/nunito-v16-latin-ext_latin-700_6e483e301899a8ab59b328ae7f155c29.woff',
-  '/assets/nunito-v16-latin-ext_latin-700_7ba344b9011888663eea78e71fc1af79.woff2',
-  '/assets/open-sans-v18-latin-ext_latin-700_5717b08cf679657595d0383d291a04c3.woff2',
-  '/assets/open-sans-v18-latin-ext_latin-regular_b7b7c77b83e9d67f6756aa2716f35eba.woff',
-  '/assets/open-sans-v18-latin-ext_latin-regular_be21e759f9abd15b8cef68d92cedc081.woff2',
   '/external-stylesheets.css',
   '/index.html',
   '/index.js',
